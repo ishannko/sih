@@ -1,0 +1,158 @@
+
+.text-center{
+    height: 30rem;
+}
+#service_button .containerr{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid #DDD;
+    transition: all .5s ease-out;
+    color: #273c75;
+  }
+ #aboutUs_button .container{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+    margin-left:2rem;
+    width: 200px;
+    
+    transition: all .5s ease-out;
+    color: #273c75;
+  }
+
+  button:hover{
+    color: #FFF;
+
+  }
+
+  
+#service_button div button{
+    border-radius: 14px;
+    color: black;
+   
+}
+#service_button div button{
+    background: linear-gradient(to right, #e84118 50%, #FFF 50%);
+   background-size: 200% 100%;
+   background-position: right;
+ }
+ #service_button div button:hover{
+    background-position: left;
+  }
+
+
+  #aboutUs_button .container button{
+    border-radius: 14px;
+}
+
+#aboutUs_button .container button{
+    border-radius: 14px;
+    color: black;
+   
+}
+#aboutUs_button .container button{
+    background: linear-gradient(to right, #e84118 50%, #FFF 50%);
+   background-size: 200% 100%;
+   background-position: right;
+ }
+
+  #aboutUs_button .container button:hover{
+    background-position: left;
+  }
+
+
+  #ourplatform_button .container button{
+    border-radius: 14px;
+}
+
+
+#security_cards div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1rem;
+    
+}
+
+#services .container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    
+}
+
+
+.container img{
+    display: flex;
+    justify-content: center;
+    height: 10rem;
+}
+body
+{
+    background-color: #f1a0ec;
+    ;
+}
+.container-fluid
+{
+    background-color: #f1a0ec;
+}
+.navbar-brand
+{
+    height: 70px;
+}
+ .card{
+    background-color:#E0F7FA;
+}
+#offcanvasNavbar
+{
+    background-color: #e7df3e;
+}
+/* #security_cards{
+    background-image: url("./UIPIC-removebg-preview.png");
+} */
+ .text-center
+ {
+    background-image: url("./newlogo-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 28rem;
+    
+    
+ }
+
+ .platform
+ {
+    background-image: url("./sihpic-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 38rem;
+ }
+.bg-body-tertiary
+{
+    background-color:#f14fe4 ;
+}
+#title{
+    height: 100rem;
+}
+.text-center img
+{
+    margin-top: 75px;
+}
+
+.Earth{
+    margin-left: 400px;
+   
+    
+}
+#security_cards .container
+{
+    width: 100rem;
+    flex:1;
+}
+.carcontainer
+{
+    height: 20rem;
+}
